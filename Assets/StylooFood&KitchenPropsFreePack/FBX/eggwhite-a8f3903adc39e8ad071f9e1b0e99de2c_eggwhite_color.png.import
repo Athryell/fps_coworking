@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cj6eupt35fd62"
+path.s3tc="res://.godot/imported/eggwhite-a8f3903adc39e8ad071f9e1b0e99de2c_eggwhite_color.png-c273fc92b663e441e323e83a446cc801.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={}
+
+[deps]
+
+source_file="res://Assets/StylooFood&KitchenPropsFreePack/FBX/eggwhite-a8f3903adc39e8ad071f9e1b0e99de2c_eggwhite_color.png"
+dest_files=["res://.godot/imported/eggwhite-a8f3903adc39e8ad071f9e1b0e99de2c_eggwhite_color.png-c273fc92b663e441e323e83a446cc801.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

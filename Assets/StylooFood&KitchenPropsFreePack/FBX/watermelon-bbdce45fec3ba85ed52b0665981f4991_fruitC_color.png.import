@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://jhri5j82qi4n"
+path.s3tc="res://.godot/imported/watermelon-bbdce45fec3ba85ed52b0665981f4991_fruitC_color.png-52429b65da2ab18a3dde8e6ed96d4e65.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={}
+
+[deps]
+
+source_file="res://Assets/StylooFood&KitchenPropsFreePack/FBX/watermelon-bbdce45fec3ba85ed52b0665981f4991_fruitC_color.png"
+dest_files=["res://.godot/imported/watermelon-bbdce45fec3ba85ed52b0665981f4991_fruitC_color.png-52429b65da2ab18a3dde8e6ed96d4e65.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://8ci4cgkwkovp"
+path.s3tc="res://.godot/imported/donutpink-15b5a40a1e8f9dd3a5c86fe677189398_donut_normal.png-bfb46d282e0c72521029a0e705f261a1.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={}
+
+[deps]
+
+source_file="res://Assets/StylooFood&KitchenPropsFreePack/FBX/donutpink-15b5a40a1e8f9dd3a5c86fe677189398_donut_normal.png"
+dest_files=["res://.godot/imported/donutpink-15b5a40a1e8f9dd3a5c86fe677189398_donut_normal.png-bfb46d282e0c72521029a0e705f261a1.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=1
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=1
+roughness/src_normal="res://Assets/StylooFood&KitchenPropsFreePack/StylooFood&KitchenPropsFreePack/FBX/donutpink-15b5a40a1e8f9dd3a5c86fe677189398_donut_normal.png"
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

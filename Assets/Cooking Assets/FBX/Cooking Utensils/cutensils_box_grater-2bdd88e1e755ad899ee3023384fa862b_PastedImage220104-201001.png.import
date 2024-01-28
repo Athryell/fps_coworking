@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://ue7da2c5shk3"
+path.s3tc="res://.godot/imported/cutensils_box_grater-2bdd88e1e755ad899ee3023384fa862b_PastedImage220104-201001.png-2ff506309c4f322ab60c59be400fef33.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={}
+
+[deps]
+
+source_file="res://Assets/Cooking Assets/FBX/Cooking Utensils/cutensils_box_grater-2bdd88e1e755ad899ee3023384fa862b_PastedImage220104-201001.png"
+dest_files=["res://.godot/imported/cutensils_box_grater-2bdd88e1e755ad899ee3023384fa862b_PastedImage220104-201001.png-2ff506309c4f322ab60c59be400fef33.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

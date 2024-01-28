@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://6tyab8j0y2bw"
+path.s3tc="res://.godot/imported/cutensils_rubber_spatula_w_hole_black-597e29bd91d439009e3bd35a702ba3d0_PastedImage220104-201001.png-528697cfb6d2eb93c80dd0d337081cd7.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={}
+
+[deps]
+
+source_file="res://Assets/Cooking Assets/FBX/All/cutensils_rubber_spatula_w_hole_black-597e29bd91d439009e3bd35a702ba3d0_PastedImage220104-201001.png"
+dest_files=["res://.godot/imported/cutensils_rubber_spatula_w_hole_black-597e29bd91d439009e3bd35a702ba3d0_PastedImage220104-201001.png-528697cfb6d2eb93c80dd0d337081cd7.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

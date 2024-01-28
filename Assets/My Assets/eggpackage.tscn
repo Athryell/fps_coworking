@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://cxrdrhgx2q5vl"]
+
+[ext_resource type="PackedScene" uid="uid://b11yavu05bew8" path="res://Assets/StylooFood&KitchenPropsFreePack/GLTF/eggpackage.glb" id="1_yr7cy"]
+
+[node name="eggpackage" instance=ExtResource("1_yr7cy")]
+
+[node name="eggpackage_001" parent="eggpackage" index="0"]
+transform = Transform3D(1, 0, 0, 0, 0.999368, -0.0355623, 0, 0.0355623, 0.999368, 0, 0.22309, 0.489962)

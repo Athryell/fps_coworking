@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cm1hrb6451nyr"
+path.s3tc="res://.godot/imported/cutensils_spatula_rubber_green-36539fcba92709fddd07990213ad9e74_PastedImage220104-201001.png-ce47f030e300033fc64df6a6f98915af.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={}
+
+[deps]
+
+source_file="res://Assets/Cooking Assets/FBX/Cooking Utensils/cutensils_spatula_rubber_green-36539fcba92709fddd07990213ad9e74_PastedImage220104-201001.png"
+dest_files=["res://.godot/imported/cutensils_spatula_rubber_green-36539fcba92709fddd07990213ad9e74_PastedImage220104-201001.png-ce47f030e300033fc64df6a6f98915af.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

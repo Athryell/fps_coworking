@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://4mxn3qagbkvl"
+path.s3tc="res://.godot/imported/knifetable-4885e9a76966747b38bd26714aedeb20_knifetable_normal.png-b4b20c171fb83766b160e2f16a7f4f1d.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={}
+
+[deps]
+
+source_file="res://Assets/StylooFood&KitchenPropsFreePack/FBX/knifetable-4885e9a76966747b38bd26714aedeb20_knifetable_normal.png"
+dest_files=["res://.godot/imported/knifetable-4885e9a76966747b38bd26714aedeb20_knifetable_normal.png-b4b20c171fb83766b160e2f16a7f4f1d.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=1
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=1
+roughness/src_normal="res://Assets/StylooFood&KitchenPropsFreePack/StylooFood&KitchenPropsFreePack/FBX/knifetable-4885e9a76966747b38bd26714aedeb20_knifetable_normal.png"
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

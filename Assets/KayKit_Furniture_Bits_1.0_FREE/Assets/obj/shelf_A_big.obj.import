@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c3p30uq2041d6"
+path="res://.godot/imported/shelf_A_big.obj-5b89cf2a9fdb0b14d737ef7282752a2b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/shelf_A_big.obj-5b89cf2a9fdb0b14d737ef7282752a2b.mesh"]
+
+source_file="res://Assets/KayKit_Furniture_Bits_1.0_FREE/Assets/obj/shelf_A_big.obj"
+dest_files=["res://.godot/imported/shelf_A_big.obj-5b89cf2a9fdb0b14d737ef7282752a2b.mesh", "res://.godot/imported/shelf_A_big.obj-5b89cf2a9fdb0b14d737ef7282752a2b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cygyxl3du2tfa"
+path.s3tc="res://.godot/imported/sercups_irish_coffee_glass-178d4b553303403acdd2355a5e83d9a8_PastedImage220104-201001.png-0149e88dd629fd1f3670d055eb39b835.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={}
+
+[deps]
+
+source_file="res://Assets/Cooking Assets/FBX/All/sercups_irish_coffee_glass-178d4b553303403acdd2355a5e83d9a8_PastedImage220104-201001.png"
+dest_files=["res://.godot/imported/sercups_irish_coffee_glass-178d4b553303403acdd2355a5e83d9a8_PastedImage220104-201001.png-0149e88dd629fd1f3670d055eb39b835.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

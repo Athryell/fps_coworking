@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bk3fmvkmxye0x"
+path.s3tc="res://.godot/imported/sercups_vodka_glass-48a90308b2b621d5f21e3816fb560d3c_PastedImage220104-201001.png-fb3323c9e8349d0d33faa8be0550f5ad.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={}
+
+[deps]
+
+source_file="res://Assets/Cooking Assets/FBX/All/sercups_vodka_glass-48a90308b2b621d5f21e3816fb560d3c_PastedImage220104-201001.png"
+dest_files=["res://.godot/imported/sercups_vodka_glass-48a90308b2b621d5f21e3816fb560d3c_PastedImage220104-201001.png-fb3323c9e8349d0d33faa8be0550f5ad.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0
