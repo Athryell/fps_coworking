@@ -1,9 +1,5 @@
 [gd_scene load_steps=7 format=3 uid="uid://c7jlde1hk6v65"]
 
-[ext_resource type="PackedScene" uid="uid://bd2eheuc8jxgi" path="res://Assets/Low Poly Furniture/Kitchen/Fridge B.fbx" id="1_07cjw"]
-[ext_resource type="PackedScene" uid="uid://byh1drufq42bi" path="res://Assets/Low Poly Furniture/Electronics/TV B.fbx" id="2_6vtns"]
-[ext_resource type="PackedScene" uid="uid://c6cw034w0yww6" path="res://Assets/Low Poly Furniture/Tables/Rounded Table C.fbx" id="3_knhfh"]
-
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_t0ogv"]
 transparency = 1
 albedo_color = Color(0.552941, 0.266667, 0.709804, 0.384314)
@@ -717,12 +713,6 @@ size = Vector3(6.09186, 0.874531, 0.242)
 transform = Transform3D(1, 0, 0, 0, -4.37114e-08, 1, 0, -1, -4.37114e-08, 0.0804443, -0.454098, 0.65739)
 size = Vector3(6.28809, 1.56962, 0.242)
 
-[node name="Fridge" parent="FirstFloor/Kitchen/Bottom/Props" instance=ExtResource("1_07cjw")]
-transform = Transform3D(-0.3, 0, 4.52987e-08, 0, 0.3, 0, -4.52987e-08, 0, -0.3, -2.68172, 1.30433, 7.99815)
-
-[node name="Fridge2" parent="FirstFloor/Kitchen/Bottom/Props/Fridge" instance=ExtResource("1_07cjw")]
-transform = Transform3D(-1, -8.74227e-08, 3.01992e-07, 8.74227e-08, -1, -1.32005e-14, 3.01992e-07, 1.32005e-14, 1, 2.99216, -0.764863, 0)
-
 [node name="Table2" type="CSGBox3D" parent="FirstFloor"]
 transform = Transform3D(-4.37114e-08, -1, 4.37114e-08, 0, -4.37114e-08, -1, 1, -4.37114e-08, 1.91069e-15, -3.87111, 1.07996, -10.9673)
 use_collision = true
@@ -852,15 +842,6 @@ size = Vector3(1.93756, 4, 0.607082)
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.36598, 1.51405, -2.89941)
 use_collision = true
 size = Vector3(3.23196, 4, 0.607082)
-
-[node name="Television" parent="FirstFloor" instance=ExtResource("2_6vtns")]
-transform = Transform3D(-2.01072e-08, 0, -0.46, 0, 0.46, 0, 0.46, 0, -2.01072e-08, 24.9767, 1.35741, 44.0491)
-
-[node name="Television2" parent="FirstFloor" instance=ExtResource("2_6vtns")]
-transform = Transform3D(-2.42598e-08, 0, -0.555, 0, 0.555, 0, 0.555, 0, -2.42598e-08, 52.4037, 0.992282, 24.6911)
-
-[node name="Root Scene3" parent="FirstFloor" instance=ExtResource("3_knhfh")]
-transform = Transform3D(0.4, 0, 0, 0, 0.4, 0, 0, 0, 0.4, 20.1141, 0.414722, 37.9941)
 
 [node name="Ground" type="Node3D" parent="FirstFloor"]
 
