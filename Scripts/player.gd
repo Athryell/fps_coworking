@@ -34,7 +34,7 @@ func _ready():
 	
 	_health = MAX_HEALTH
 	
-	position = Vector3(randi_range(-26, 14), 0, randi_range(-2, 12))
+	position = Vector3(randi_range(-4, 14), 0, randi_range(6, 26))
 	var new_mat := StandardMaterial3D.new()
 	new_mat.albedo_color = Color(randf(), randf(), randf())
 	mesh.set_material_override(new_mat)
